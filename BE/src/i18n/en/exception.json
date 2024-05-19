@@ -1,0 +1,5 @@
+{
+  "InternalServerError": "We encountered an internal error. Please try again.",
+  "EmailOrPasswordIncorrect": "Sorry, that email or password is incorrect.",
+  "EmailAlreadyExists": "Sorry, that email is already registered."
+}

@@ -1,0 +1,5 @@
+{
+  "InternalServerError": "Có lỗi xảy ra, vui lòng thử lại sau",
+  "EmailOrPasswordIncorrect": "Email hoặc mật khẩu không đúng",
+  "EmailAlreadyExists": "Email đã tồn tại"
+}
